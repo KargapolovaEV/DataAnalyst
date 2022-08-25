@@ -1,6 +1,6 @@
-﻿\\Проекты:\\
+\Проекты:\
 
-\*\*1. Анализ маркетинга в приложении Procrastinate Pro+\*\*
+\1. [Анализ маркетинга в приложении Procrastinate Pro+](https://github.com/KargapolovaEV/DataAnalyst/tree/main/Анализ действий маркетингового отдела)\
 
 (pandas, seaborn, numpy, pyplot, datetime, timedelta)
 
