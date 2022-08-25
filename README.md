@@ -7,8 +7,7 @@
 
 Для этого сделаем анализ признаков пользователей и их действий в программе. Рассчитаем суммы потраченные на рекламу в разрезе признаков. Оценим и проанализируем окупаемость рекламы с помощью LTV и ROI.
 
-\*\*2. Анализ и разработка плана действий по удержанию клиентов фитнес-центра\*\*
-
+\2. [Анализ и разработка плана действий по удержанию клиентов фитнес-центра](https://github.com/KargapolovaEV/DataAnalyst/tree/main/Анализ%20и%20разработка%20плана%20действий%20по%20удержанию%20клиентов%20фитнес-центра)\
 (pandas, matplotlib.pyplot, seaborn, itertools, numpy, sklearn.model\_selection.train\_test\_split, sklearn.ensemble.RandomForestClassifier, sklearn.linear\_model.LogisticRegression, sklearn.preprocessing.StandardScaler, sklearn.metrics. accuracy\_score, precision\_score, recall\_score, f1\_score, sklearn.cluster.Kmeans, scipy.cluster.hierarchy)
 
 Прогнозирование вероятности оттока (на уровне следующего месяца) для каждого клиента. Сформировать типичные портреты клиентов: выделить несколько наиболее ярких групп и охарактеризовать их основные свойства. Анализ основных признаков, наиболее сильно влияющих на отток. Выводы и рекомендации.
