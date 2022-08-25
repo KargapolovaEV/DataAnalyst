@@ -1,7 +1,6 @@
 \Проекты:\
 
-\1. [Анализ маркетинга в приложении Procrastinate Pro+](https://github.com/KargapolovaEV/DataAnalyst/tree/main/Анализ действий маркетингового отдела)\
-
+\1. [Анализ маркетинга в приложении Procrastinate Pro+](https://github.com/KargapolovaEV/DataAnalyst/tree/main/Анализ%20действий%20маркетингового%20отдела)\
 (pandas, seaborn, numpy, pyplot, datetime, timedelta)
 
 Узнаем почему реклама не дала результатов и бизнес несет убытки.
